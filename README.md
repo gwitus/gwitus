@@ -1,7 +1,7 @@
 ### Salve visitante, segue algumas informações sobre mim 👋
 
 - 🔭 I'm studying  on IFMS
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and C#
 - 📫 How to reach me: emanuelbarbosati@gmail.com
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="Emanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Emanuel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Emanuel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div>
   
 ##
