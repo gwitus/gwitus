@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning Javascript and C#
 - 📫 How to reach me: emanuelbarbosati@gmail.com
 
-<div allign="center">
+<div>
   <a href="https://github.com/Emanuel-Perflex">
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Emanuel- Perflex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Perflex&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
