@@ -1,7 +1,7 @@
 ### Salve visitante, segue algumas informações sobre mim 👋
 
 - 🔭 I'm studying  on IFMS
-- 🌱 I’m currently learning Javascript and C#
+- 🌱 I’m currently learning Full Stack developer
 - 📫 How to reach me: emanuelbarbosati@gmail.com
 
 <div>
