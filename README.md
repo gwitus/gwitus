@@ -4,20 +4,31 @@
 - 🌱 I’m currently learning Full Stack developer
 - 📫 How to reach me: emanuelbarbosati@gmail.com
 
-<div>
+<div align="center">
+  <img height="190em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Perflex&layout=compact&langs_count=7&theme=dracula"/>
   <a href="https://github.com/Emanuel-Perflex">
-  <img height="200em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Perflex&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Perflex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  
 </div>
-<div style="display: inline_block"><br>
+  
+  <h3>🔹Technologies and Tools 💻</h3> 
+<div><br>
   <img align="center" alt="Emanuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Emanuel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Emanuel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-</div>
 <img align="center" alt="Emanuel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
-<img align="center" alt="Emanuel-C" height="30" width="60" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<br>  
+<div>  
+<img align="center" alt="Emanuel-C" height="40" width="70" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img align="center" alt="Emanuel-C" height="35" width="80" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img align="center" alt="Emanuel-C" height="35" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+  
+  
 </div>
   
 ##
