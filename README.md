@@ -1,6 +1,6 @@
 ### Salve visitante, segue algumas informações sobre mim 👋
 
-- 🔭 I'm studying  on IFMS - Análise e Desenvolvimento de Sistemas
+- 🔭 I'm studying  in IFMS - Análise e Desenvolvimento de Sistemas
 - 🌱 I’m currently learning Full Stack developer
 - 📫 How to reach me: emanuelbarbosati@gmail.com
 - 💻 Working in ELDORADO
