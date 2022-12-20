@@ -3,6 +3,7 @@
 - 🔭 I'm studying  in IFMS - Análise e Desenvolvimento de Sistemas
 - 🌱 I’m currently learning Full Stack developer
 - 📫 How to reach me: emanuelbarbosati@gmail.com
+- 💼 Work in ELdorado
 
 <div align="center" style = "display: flex; justify-content: center; align-items: center;">
   <img height="190em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwitus&layout=compact&langs_count=7&theme=dracula"/>
