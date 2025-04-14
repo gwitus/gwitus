@@ -41,3 +41,6 @@
   <a href="https://www.linkedin.com/in/emanuel-barbosa-aa83ba225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+
+OBS: Se está procurando commits ou repositórios que estavam aqui recentemente, eu fiz uma limpa nos repositórios desse gitHub que tem finalidade pessoal. Se for curso ou algo relacionado com projetos pessoais da faculdade: procure no repositório ou /Cursos ou no /Faculdade
